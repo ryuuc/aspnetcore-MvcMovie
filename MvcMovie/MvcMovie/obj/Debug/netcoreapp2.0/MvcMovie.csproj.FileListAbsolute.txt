@@ -9,3 +9,14 @@ C:\Users\liuchao\Source\Repos\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\ne
 C:\Users\liuchao\source\repos\aspnetcore-MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
 C:\Users\liuchao\source\repos\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
 C:\Users\liuchao\source\repos\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+E:\repo\aspnetcore-MvcMovie\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb

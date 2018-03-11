@@ -1,4 +1,4 @@
-@page
+@page "{SearchString?}"
 @model MvcMovie.Pages.Movies.IndexModel
 
 @{
@@ -10,6 +10,18 @@
 <p>
     <a asp-page="Create">Create New</a>
 </p>
+
+<form>
+    <p>
+        <select asp-for="MovieGener" asp-items="Model.Geners">
+            <option value="">All</option>
+        </select>
+    </p>
+    <p>
+        Title: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
 <table class="table">
     <thead>
         <tr>
