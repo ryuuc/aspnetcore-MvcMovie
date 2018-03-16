@@ -72,8 +72,9 @@ namespace MvcMovie.Utilities
                         //Log 
                     }
                 }
-                return string.Empty;
             }
+
+            return string.Empty;
         }
     }
 }
